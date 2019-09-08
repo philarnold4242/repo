@@ -4,7 +4,7 @@ class MyClass:
 
     def myfunc(self, a, b):
 
-        val = a + b + 1
+        val = a + b
 
         return val
 
