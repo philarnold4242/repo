@@ -1,6 +1,6 @@
 import unittest
 
-from module import MyClass
+from toplevelpkg.module import MyClass
 
 
 class TestMyClass(unittest.TestCase):
